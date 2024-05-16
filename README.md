@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarsh2982&label=Profile%20views&color=0e75b6&style=flat" alt="aarsh2982" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarsh2982" alt="aarsh2982" /></a> </p>
-
 - 🔭 I’m currently working on [Customer Complaint Solution](https://github.com/aarsh2982/Customer-complaint-solution.git)
 
 - 🌱 I’m currently learning **React Js**
